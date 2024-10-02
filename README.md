@@ -1,4 +1,4 @@
-### Hello 👋 My name is Berkay and I'm currently a second year student at Bilkent University pursuing my Computer Engineering degree. My main topics of interest are Software Engineering, Big Data and Optimization. I look forward to learning more about them throughout my education.
+### Hello 👋 My name is Berkay and I'm currently a second year student at Bilkent University pursuing my Computer Engineering degree. My main topics of interest are Software Engineering, Big Data and Optimization. I look forward to learning more about them throughout my education. You can find more about me <a href="https://tr.linkedin.com/in/berkay-demir%C3%A7in-4b8b38289">here!</a>
 
 <!--
 **berkaydemircin/berkaydemircin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
