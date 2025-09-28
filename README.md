@@ -1,5 +1,5 @@
-### Hello 👋 My name is Berkay and I'm currently a second year student at Bilkent University pursuing my Computer Engineering degree. 
-### I'm mainly interested in DevOps and Backend development. You can find more about me on <a href="https://tr.linkedin.com/in/berkay-demir%C3%A7in-4b8b38289">LinkedIn</a>
+### Hello 👋 My name is Berkay and I'm currently a third year student at Bilkent University pursuing my Computer Engineering degree. 
+### I'm passionate about software engineering and mainly interested in backend development. You can find more about me on <a href="https://www.linkedin.com/in/berkaydemircin">LinkedIn</a>
 
 <!--
 **berkaydemircin/berkaydemircin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
